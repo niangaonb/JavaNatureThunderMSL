@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="14.0" layoutY="30.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fitHeight="33.0" fitWidth="46.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button layoutX="14.0" layoutY="89.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="14.0" layoutY="153.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="14.0" layoutY="215.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="14.0" layoutY="292.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="14.0" layoutY="355.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
